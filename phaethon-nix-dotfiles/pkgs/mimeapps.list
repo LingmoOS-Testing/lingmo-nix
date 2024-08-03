@@ -1,0 +1,5 @@
+[Default Applications]
+x-scheme-handler/settings=io.elementary.switchboard.desktop
+
+[Added Associations]
+x-scheme-handler/settings=io.elementary.switchboard.desktop;
