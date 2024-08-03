@@ -71,11 +71,15 @@ listmirror:
 syncall: 
   sudo nixos-rebuild switch --show-trace && sudo nix flake update --show-trace && sudo home-manager switch --show-trace && reboot
 
+# 不喜欢您的最新构建的配置？一键回滚，安全带您回到旧配置
+rollback:
+  sudo nix-env --rollback
+
 # 假设使用了带有unfree licence许可的应用？没关系我们也帮您配置了
 # 临时使用
 unfreepkg enable:
   export NIXPKGS_ALLOW_UNFREE=1
 # 永久更改
 unfreepkg switch:
-  echo "neofetch" >> .bashrc    # 这样看来貌似你在NixOS中又写了一个bash的配置文件，但是两个文件都是有效的
+  echo "NIXPKGS_ALLOW_UNFREE=1" >> .bashrc    # 这样看来貌似你在NixOS中又写了一个bash的配置文件，但是两个文件都是有效的
   source .bashrc
