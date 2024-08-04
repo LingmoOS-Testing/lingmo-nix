@@ -56,4 +56,4 @@ Visit [Nixpkgs Manual](https://nixos.org/manual/nixpkgs/stable/) to learn what i
 
 Visit [NixOS Manual](https://nixos.org/manual/nixos/stable) to learn what is NixOS.
 
-Visit [](https://nixos.wiki/wiki/Nixpkgs/Create_and_debug_packages) to learn how to build Nixpkgs. (Important in compiled LingmoOS Apps to NixOS executable binary packages.)
+Visit [NixOS Wiki](https://nixos.wiki/wiki/Nixpkgs/Create_and_debug_packages) to learn how to build Nixpkgs. (Important in compiled LingmoOS Apps to NixOS executable binary packages.)
