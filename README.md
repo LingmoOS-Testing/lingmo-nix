@@ -43,7 +43,8 @@ in continuously updateing
    - Just
 
 > View source on [github:casey/just](https://github.com/casey/just)
-   It is a *command-runner* use on every platform. Its grammar was inspired by **Makefile**. You can simplify existing commands in `just ${commands}`. Or Writing a `Justfile` to define commands. Now is more used in Arch and NixOS.
+   
+> It is a *command-runner* use on every platform. Its grammar was inspired by **Makefile**. You can simplify existing commands in `just ${commands}`. Or Writing a `Justfile` to define commands. Now is more used in Arch and NixOS.
 
 ## Build & Developments 
 
