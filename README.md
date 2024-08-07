@@ -6,6 +6,17 @@ LingmoOS Project started up a project that ported LingmoOS to NixOS. Its codenam
 
 (Hey! Chinese documents will be available soon, please wait for Chinese users! ）
 
+### Announcement
+- License changed from MIT to GPT-3.0 now. The purpose of this action is to prevent our open source software from being referenced at will.
+- While cloning the repository, please add the **PGP Key**.
+  ```
+  pub   rsa4096 2024-07-14 [SC] [EXP：2025-07-14]
+      35F588798A4A85F6DA12684CA4DBCC9F9744B7F1
+  uid             [ 绝对 ] Lancelot Constantine Cayde (arkimium Innovation official on @GitHub) <114994536+arkimium@users.noreply.github.com>
+  sub   rsa4096 2024-07-14 [E] [EXP：2025-07-14]
+  ```
+  This PGP Key will be unused on 14 Jul, 2024. *Next year the PGP Key will be changed and be supported in next 3 years.*
+  
 ## Contents
 
 - Installation
