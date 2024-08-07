@@ -24,6 +24,7 @@ LingmoOS Project started up a project that ported LingmoOS to NixOS. Its codenam
 - Featured softwares (Continuously updateing)
   - Just
 - Build & Development (NixOps)
+- Nixpkgs Source
 
 ## Installation
 
@@ -70,3 +71,6 @@ Visit [Nixpkgs Manual](https://nixos.org/manual/nixpkgs/stable/) to learn what i
 Visit [NixOS Manual](https://nixos.org/manual/nixos/stable) to learn what is NixOS.
 
 Visit [NixOS Wiki](https://nixos.wiki/wiki/Nixpkgs/Create_and_debug_packages) to learn how to build Nixpkgs. (Important in compiled LingmoOS Apps to NixOS executable binary packages.)
+
+## Nixpkgs Source
+This is also a nixpkg source station now. The repository name in Nix configurations is `github:LingmoOS-Testing/lingmo-nix`. Better use in `flake.nix`!
