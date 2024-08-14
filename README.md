@@ -5,7 +5,7 @@
 LingmoOS Project started up a project that ported LingmoOS to NixOS. Its codename now called "LingmoNix". Nix, as a functional programming language, a purely declarative package manager, and the basis of NixOS, the revolutionary declarative distribution for Linux, is influencing every aspect of the computer world. We're more than happy to start this program and guarantee that your experience is in sync with LingmoOS.
 
 (Hey! Chinese documents will be available soon, please wait for Chinese users! ）
-( GitBook Docs will release soon! )
+( GitBook Docs release now! )
 
 ### Announcement
 - License changed from MIT to GPT-3.0 now. The purpose of this action is to prevent our open source software from being referenced at will.
