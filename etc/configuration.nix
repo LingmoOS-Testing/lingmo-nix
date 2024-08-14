@@ -72,17 +72,13 @@
     packages = with pkgs; [
       chromium
       tree
-      zsh
       neofetch
       neovim
       vscode
-      # jetbrains.pycharm-community
       libreoffice
       tmux
       just
       steam
-      # oxygen
-      # konsole
     ];
   };
 
@@ -93,6 +89,7 @@
     wget
     curl
     git
+    gh
     clash-meta
     appimage-run
   ];
