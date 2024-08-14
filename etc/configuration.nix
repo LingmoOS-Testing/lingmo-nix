@@ -18,7 +18,7 @@
   # Define on which hard drive you want to install Grub.
   boot.loader.grub.device = "/dev/sda"; # or "nodev" for efi only
 
-  networking.hostName = "LingmoOSLive"; # Define your hostname.
+  networking.hostName = "LingmoOS"; # Define your hostname.
   # Pick only one of the below networking options.
   # networking.wireless.enable = true;  # Enables wireless support via wpa_supplicant.
   # networking.networkmanager.enable = true;  # Easiest to use and most distros use this by default.
@@ -72,7 +72,6 @@
     packages = with pkgs; [
       chromium
       tree
-      byobu
       zsh
       neofetch
       neovim
@@ -80,7 +79,8 @@
       # jetbrains.pycharm-community
       libreoffice
       tmux
-      hollywood
+      just
+      steam
       # oxygen
       # konsole
     ];
@@ -97,8 +97,9 @@
     appimage-run
   ];
 
+  system.nixos.label = [ "linixos" ];
   nixpkgs.config.allowUnfree = true;
-
+  nix.settings.substituters = lib.mkForce [ "https://mirrors.ustc.edu.cn/nix-channels/store" ];
   # Some programs need SUID wrappers, can be configured further or are
   # started in user sessions.
   # programs.mtr.enable = true;
