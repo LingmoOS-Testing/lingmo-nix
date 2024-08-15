@@ -15,7 +15,7 @@ LingmoOS Project started up a project that ported LingmoOS to NixOS. Its codenam
   uid             [ 绝对 ] Lancelot Constantine Cayde (arkimium Innovation official on @GitHub) <114994536+arkimium@users.noreply.github.com>
   sub   rsa4096 2024-07-14 [E] [EXP：2025-07-14]
   ```
-  This PGP Key will be unused on 14 Jul, 2024. *Next year the PGP Key will be changed and be supported in next 3 years.*
+  This PGP Key will be unused on 14 Jul, 2025. *Next year the PGP Key will be changed and be supported in next 3 years.*
   
 ## Contents
 
