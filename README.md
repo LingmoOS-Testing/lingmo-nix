@@ -1,11 +1,16 @@
 ![Welcome Banner](https://github.com/user-attachments/assets/61c61e0c-edf0-4542-9423-507acc1f6ba6)
 
-# LingmoOS Nix Edition
+# LingmoOS Nix Edition ( In Rebuilding )
 ## Preface
 LingmoOS Project started up a project that ported LingmoOS to NixOS. Its codename now called "LingmoNix". Nix, as a functional programming language, a purely declarative package manager, and the basis of NixOS, the revolutionary declarative distribution for Linux, is influencing every aspect of the computer world. We're more than happy to start this program and guarantee that your experience is in sync with LingmoOS.
 
-( GitBook Docs release now! )
+## ( GitBook Docs release now! )
+## Rebuilding the system... Next Beta release - *LingmoOS "Yaksha"* will released in Winter 2025!
 
+### (On Top) Winter Develop Plans!
+  - System Label: NixOS -> LingmoOS
+  - New Version: LingmoOS Nix "Yaksha" (LingmoOS Nix 5.02)
+  - Nixpkgs to port: **LingmoUI**, **Cutefish**, **LingmoOS's Official Wallpapers & Plymouth Theme, and the SPEICIAL WALLPAPERS from our project.
 ### Announcement
 - License changed from MIT to GPT-3.0 now. The purpose of this action is to prevent our open source software from being referenced at will.
 - While cloning the repository, please add the **PGP Key**.
