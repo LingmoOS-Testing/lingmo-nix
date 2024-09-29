@@ -12,7 +12,7 @@ LingmoOS Project started up a project that ported LingmoOS to NixOS. Its codenam
   - New Version: LingmoOS Nix "Yaksha" (LingmoOS Nix 5.02)
   - Nixpkgs to port: **LingmoUI**, **Cutefish**, **LingmoOS's Official Wallpapers & Plymouth Theme, and the SPEICIAL WALLPAPERS from our project**.
 ### Announcement
-- License changed from MIT to GPT-3.0 now. The purpose of this action is to prevent our open source software from being referenced at will.
+- License changed from MIT to GPL-3.0 now. The purpose of this action is to prevent our open source software from being referenced at will.
 - While cloning the repository, please add the **PGP Key**.
   ```
   pub   rsa4096 2024-07-14 [SC] [EXP：2025-07-14]
