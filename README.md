@@ -6,17 +6,20 @@ LingmoOS Project started up a project that ported LingmoOS to NixOS. Its codenam
 
 
 
-Rebuilding the system... Next Beta release - *LingmoOS "Yaksha"* will released in Winter 2025!
+Rebuilding the system... Next Beta release - *LingmoOS "Yaksha"* will released in Winter 2025! Official Version -> *LingmoNix 2*.
 
 
-### (On Top) Winter Develop Plans!
-  PS. Oh Sorry, I don't know We'll finish the plan at the day-offs of October. LMAO :)
+### (On Top) Rebuilt Plans!
+  LingmoNix 2 will be built as a set of **configurations and optional basic dotfiles**.
+  The document will also rewrite at AnyType.io
+  All plans will be finished before Feburary 2025.
 
-  SO the current plan is to discovery how to build our customized NixOS ISO now!
-  
+  - Build a starter repository.
+  - Open the *github pages* to *curl* the installation script.
+  - Rebuild the Document at AnyType.
   - ~System Label: NixOS -> LingmoOS~
   - ~New Version: LingmoOS Nix "Yaksha" (LingmoOS Nix 5.02)~ It'll be changed in /etc/issue later.
-  - ~Nixpkgs to port:.~ Done.
+
 ### Announcement
 - License changed from MIT to GPL-3.0 now. The purpose of this action is to prevent our open source software from being referenced at will. (The same as the upcoming Yaksha & Our custom Nixpkgs.)
 - No GPG Keys needed to "sign" the nixpkgs repository. Because NixOS is related with GitHub :). What's more if we have binary cache in [Cachix](cachix.org), we'll use narinfo instead of GPG Keys. Even the EXP of maintainer's GPG Key is in Jul, 2025.
@@ -47,5 +50,4 @@ Visit [NixOS Manual](https://nixos.org/manual/nixos/stable) to learn what is Nix
 Visit [NixOS Wiki](https://nixos.wiki/wiki/Nixpkgs/Create_and_debug_packages) to learn how to build Nixpkgs. (Important in compiled LingmoOS Apps to NixOS executable binary packages.)
 
 ## Nixpkgs Source
-~This is also a nixpkg source station now. The repository name in Nix configurations is `github:LingmoOS-Testing/lingmo-nix`. Better use in `flake.nix`!~ Remove to github:LingmoOS-Testing/hydrogen-nixpkgs now. This Nixpkgs Source won't be maintained, but the distribution's release will show here.
-~
+~This is also a nixpkg source station now. The repository name in Nix configurations is `github:LingmoOS-Testing/lingmo-nix`. Better use in `flake.nix`! Remove to github:LingmoOS-Testing/hydrogen-nixpkgs now.~ This Nixpkgs Source won't be maintained and archived. The distribution of its next version seemed have no use of the Source. But we're making efforts to develop Lingmo Desktop and Lingmo Software's customized application as Nixpkgs. Coming Soon!
