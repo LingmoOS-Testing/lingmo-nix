@@ -1,4 +1,5 @@
-![Welcome Banner](https://github.com/user-attachments/assets/61c61e0c-edf0-4542-9423-507acc1f6ba6)
+![LingmoNix](https://github.com/user-attachments/assets/c753ace1-e4fd-47ec-ada3-4ea23feabc5b)
+
 
 # LingmoNix ( In Rebuilding )
 ## Preface
