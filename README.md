@@ -10,7 +10,7 @@ LingmoOS Project started up a project that ported LingmoOS to NixOS. Its codenam
 Rebuilding the system... Next Beta release - *LingmoOS "Yaksha"* will released in Winter 2025! Official Version -> *LingmoNix 2*.
 
 
-### (On Top) Rebuilt Plans!
+### (On Top) Rebuild Plans!
   LingmoNix 2 will be built as a set of **configurations and optional basic dotfiles**.
   The document will also rewrite at AnyType.io
   All plans will be finished before Feburary 2025.
